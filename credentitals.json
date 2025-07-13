@@ -1,0 +1,6 @@
+{"web" :
+{"client_id" :  "YOUR_CLIENT_ID.apps.googleusercontent.com",
+"client_secret": "YOUR_SECRET_TOKEN",
+"redirect_uris" :  [],
+"auth_uri" :  "https://accounts.google.com/o/oauth2/auth",
+"token_uri" :  "https://accounts.google.com/o/oauth2/token"}}
